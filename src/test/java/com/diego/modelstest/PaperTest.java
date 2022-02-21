@@ -6,6 +6,9 @@ import com.diego.models.Paper;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.Assert.*;
+
+
 
 public class PaperTest {
 
