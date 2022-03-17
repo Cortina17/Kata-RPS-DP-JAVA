@@ -1,4 +1,4 @@
-package com.diego.models;
+package com.diego.models.moves;
 
 public class Rock {
 
