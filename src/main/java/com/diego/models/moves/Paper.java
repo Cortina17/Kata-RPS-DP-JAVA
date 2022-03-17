@@ -1,8 +1,10 @@
 package com.diego.models.moves;
 
-public class Paper {
+import com.diego.models.factories.MovementInterface;
 
-    public String getPaper() {
+public class Paper implements MovementInterface{
+
+    public String getMovement(){
         return "Paper";
-    }
+    };
 }

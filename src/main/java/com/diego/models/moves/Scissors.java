@@ -1,8 +1,10 @@
 package com.diego.models.moves;
 
-public class Scissors {
+import com.diego.models.factories.MovementInterface;
 
-    public String getScissors() {
-    return "Scissors";
+public class Scissors implements MovementInterface {
+
+    public String getMovement() {
+        return "Scissors";
     }
 }
