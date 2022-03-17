@@ -1,4 +1,4 @@
-package com.diego;
+package com.diego.domain.infrastructure;
 
 /**
  * Hello world!

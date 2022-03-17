@@ -1,6 +1,6 @@
-package com.diego.models.moves;
+package com.diego.models;
 
-import com.diego.models.factories.MovementInterface;
+import com.diego.domain.contracts.MovementInterface;
 
 public class Scissors implements MovementInterface {
 

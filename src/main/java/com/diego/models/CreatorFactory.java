@@ -1,8 +1,9 @@
-package com.diego.models.factories;
+package com.diego.models;
 
-import com.diego.models.moves.Paper;
-import com.diego.models.moves.Rock;
-import com.diego.models.moves.Scissors;
+import com.diego.domain.contracts.MovementInterface;
+import com.diego.models.Paper;
+import com.diego.models.Rock;
+import com.diego.models.Scissors;
 
 public class CreatorFactory {
 

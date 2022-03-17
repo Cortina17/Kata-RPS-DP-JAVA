@@ -1,4 +1,4 @@
-package com.diego.models.factories;
+package com.diego.domain.contracts;
 
 public interface MovementInterface {
 
